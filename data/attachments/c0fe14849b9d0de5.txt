@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[data-testid=\"flight.forms.i0.units.i0.passengerDateOfBirth-MonthInputDataTestId\"]"
+}

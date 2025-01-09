@@ -1,1 +1,1 @@
-{}
+{"f5b3dd9f660978c6b75811e9b6f07c7e":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"a1e20278c7453b53","status":"broken","statusDetails":"element (\"ul[role=\"listbox\"] li\") still not clickable after 10000ms","time":{"start":1736417365758,"stop":1736417585049,"duration":219291}}]}}
