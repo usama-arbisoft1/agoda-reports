@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "input[datatestid=\"flight.forms.i0.units.i1.passengerDateOfBirth-DateInputDataTestId\"]"
+}
