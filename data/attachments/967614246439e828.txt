@@ -1,0 +1,4 @@
+{
+  "args": [],
+  "script": "lambda-name=Agoda Flight Booking Feature - Search a flight"
+}
