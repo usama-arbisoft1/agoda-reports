@@ -1,1 +1,1 @@
-[{"uid":"f4e6c047b2030956","name":"Search a flight","time":{"start":1736428891918,"stop":1736428962509,"duration":70591},"status":"passed","severity":"normal"}]
+[{"uid":"be268424f54a251c","name":"Search a flight","time":{"start":1736429349281,"stop":1736429413172,"duration":63891},"status":"broken","severity":"normal"}]
