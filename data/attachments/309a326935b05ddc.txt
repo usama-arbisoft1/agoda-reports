@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[data-quick-sort-item-title=\"Best overall\"]"
+}

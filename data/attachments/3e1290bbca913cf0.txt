@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"button[data-quick-sort-item-title=\"Best overall\"]\"}\n  (Session info: chrome=131.0.6778.70)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF649092775+28773]\n\t(No symbol) [0x00007FF648FFAFB0]\n\t(No symbol) [0x00007FF648E9552A]\n\t(No symbol) [0x00007FF648EE8EAE]\n\t(No symbol) [0x00007FF648EE919C]\n\t(No symbol) [0x00007FF648F323F7]\n\t(No symbol) [0x00007FF648F0EFDF]\n\t(No symbol) [0x00007FF648F2F1A4]\n\t(No symbol) [0x00007FF648F0ED43]\n\t(No symbol) [0x00007FF648EDA548]\n\t(No symbol) [0x00007FF648EDB6B1]\n\tGetHandleVerifier [0x00007FF6493BF45D+3358029]\n\tGetHandleVerifier [0x00007FF6493D430D+3443709]\n\tGetHandleVerifier [0x00007FF6493C83FD+3394797]\n\tGetHandleVerifier [0x00007FF64915929B+842635]\n\t(No symbol) [0x00007FF64900654F]\n\t(No symbol) [0x00007FF649001FA4]\n\t(No symbol) [0x00007FF64900213D]\n\t(No symbol) [0x00007FF648FF1629]\n\tBaseThreadInitThunk [0x00007FFC7D76DBE7+23]\n\tRtlUserThreadStart [0x00007FFC7ED05A6C+44]\n"
+}
