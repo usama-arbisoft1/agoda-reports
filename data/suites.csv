@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Testing Flight Searching Feature For Agoda.","20596","Search a flight","Tests for web interface","Fri Jan 10 22:40:17 UTC 2025","broken","Fri Jan 10 22:40:38 UTC 2025","","Agoda Flight Booking Feature","",""
+"Testing Flight Searching Feature For Agoda.","22208","Search a flight","Tests for web interface","Fri Jan 10 23:30:20 UTC 2025","broken","Fri Jan 10 23:30:42 UTC 2025","","Agoda Flight Booking Feature","",""
